@@ -1,34 +1,55 @@
-# web-scraper
-Python web scraper for extracting book titles and prices.
-Book Scraper
+# 🕷️ Web Scraping Toolkit
 
-A Python web scraping project that extracts book titles and prices from a website.
+A collection of Python web scraping projects for extracting data, tracking product prices, and automating web-based tasks.
 
-Features
+## 🚀 Features
 
-* Scrapes book titles
-* Scrapes book prices
-* Displays data in the terminal
+- 📚 Book data scraping
+- 📈 Product price tracking
+- 🔔 Price drop monitoring
+- ⚡ Automated data extraction
 
-Technologies Used
+## 🛠️ Tech Stack
 
-* Python
-* Requests
-* BeautifulSoup
+- Python
+- BeautifulSoup
+- Requests
+- Pandas
 
-Installation
+## 📂 Projects
 
-pip install requests beautifulsoup4
+```
+web-scraping-toolkit/
 
-Run
+├── book_price_scraper.py
+├── price_tracker_scraper.py
+├── price_drop_alert_scraper.py
+└── README.md
+```
 
-python web_scraping.py
+## ▶️ Usage
 
-What I Learned
+Run any scraper:
 
-* requests.get()
-* BeautifulSoup()
-* HTML tags and classes
-* find()
-* find_all()
-* Basic web scraping
+```bash
+python book_price_scraper.py
+```
+
+```bash
+python price_tracker_scraper.py
+```
+
+## 🧠 Learning
+
+Built to understand:
+
+- Web scraping
+- HTML parsing
+- Data extraction
+- Python automation
+
+## 👨‍💻 Author
+
+**Chetanay Batra**
+
+Building projects in Python, AI, automation, and software development.
